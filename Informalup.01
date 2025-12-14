@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Informalup</title>
+  <meta name="description" content="Informalup – media informasi dunia usaha & kerja formal-informal, isu ekonomi, berita global, UMKM & hawker, lowongan kerja, mitra bisnis, dan iklan.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f5f6fa;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(135deg, #6a11cb, #2575fc);
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #2575fc;
+    }
+    .box {
+      background: #fff;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,.1);
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #eee;
+      font-size: 14px;
+    }
+    a.btn {
+      display: inline-block;
+      background: #25D366;
+      color: #fff;
+      padding: 12px 20px;
+      border-radius: 6px;
+      text-decoration: none;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Informalup</h1>
+  <p>Media Informasi Dunia Usaha & Kerja Formal – Informal</p>
+</header>
+
+<section>
+  <div class="box">
+    <h2>Tentang Informalup</h2>
+    <p>
+      Informalup adalah platform informasi yang membahas dunia usaha,
+      kerja formal dan informal, isu ekonomi, berita global, UMKM & hawker,
+      lowongan kerja, serta kemitraan bisnis.
+    </p>
+  </div>
+
+  <div class="box">
+    <h2>Fokus Informasi</h2>
+    <ul>
+      <li>Berita dunia usaha & kerja formal–informal</li>
+      <li>Isu ekonomi nasional & global</li>
+      <li>UMKM dan pedagang (hawker)</li>
+      <li>Lowongan kerja</li>
+      <li>Mitra dan peluang bisnis</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h2>Iklan & Kerja Sama</h2>
+    <p>Pasang iklan atau kerja sama bisnis bersama Informalup.</p>
+    <a class="btn" href="https://wa.me/62812244415025" target="_blank">
+      Hubungi WhatsApp
+    </a>
+  </div>
+</section>
+
+<footer>
+  © 2025 Informalup • All Rights Reserved
+</footer>
+
+</body>
+</html>
